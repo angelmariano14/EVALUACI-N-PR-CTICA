@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69064746/158085652-2c35bd59-80ac-4ac1-92d8-b8f53a4613f4.jpg"/>
- </p>
+</p>
 
 ## Ejercicio 1
 ### Instalación del ambiente
 Visual Studio Code
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69064746/158078138-7df0fb2d-e269-4360-92fd-dc51646b4989.png" />
+  <img src="https://user-images.githubusercontent.com/97711819/172035247-e95148ce-911c-46f8-a6d6-fcc74045c498.png" />
 </p>
 
 GitBash
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69064746/158078149-775abebd-fd0e-481d-bed0-3fa1798866f1.png"/>
+  <img src="https://user-images.githubusercontent.com/97711819/172035275-de059186-bf74-4ec8-9777-39657a229262.png"/>
 </p>
 
 ---
@@ -112,7 +112,10 @@ Content-Type: multipart/form-data; boundary=something</code>
 ## Ejercicio 3
 
 1. *Realizar un request GET a la URL*: [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
-- ![image](https://user-images.githubusercontent.com/69064746/158244276-fbee3542-2ca8-4601-913a-1c8a38b080e8.png)
+
+<img src="https://user-images.githubusercontent.com/97711819/172035467-dfb475bb-2631-4347-9e27-63bb51eb59a3.png"/>
+- 
+
 
 2. *Realizar un request POST a la URL anterior, y con body:*
 
@@ -123,13 +126,13 @@ Content-Type: multipart/form-data; boundary=something</code>
 }
 </code>
 
-- ![image](https://user-images.githubusercontent.com/69064746/158246398-1a3fbdc4-d600-4656-b342-f2be680f2918.png)
+<img src="https://user-images.githubusercontent.com/97711819/172035505-dead334b-8f09-41e1-bb23-66f812ef1c41.png"/>
 
 3. *Realizar nuevamente un request GET a la URL*  [https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json](https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json)
 *¿Qué diferencias se observan entre las llamadas del punto 1 y el 3?*
 - Mi request post fue satisfactorio, ahora mi nombre y correo fueron registrados en la URL y aparecen al momento de hacer un request GET:
 - 
-![image](https://user-images.githubusercontent.com/69064746/158246928-8bf0e468-0415-4b32-97bd-6989e40e07ba.png)
+<img src="https://user-images.githubusercontent.com/97711819/172035535-f1cc220b-160a-4d10-a0ff-0c1840558cf2.png"/>
 
 ---
 
