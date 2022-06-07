@@ -138,17 +138,10 @@ Content-Type: multipart/form-data; boundary=something</code>
 
 ## Ejercicio 4
 
-- Solicitar usuario de Trailhead a ariel.tarsitano@procontacto.com.mx
-- Cambiar el idioma de Trailhead a inglés.
-- Realizar los siguientes módulos de Trailhead:
-  - Fundamento de la plataforma Salesforce 
-  - Fundamentos de Apex y .NET
-  - Modelado de datos
-  - Fundamentos y base de datos de Apex
-  - Desencadenadores de Apex
-  - Apex Integration Services
-
-- Se recomienda usar el mismo Playground para todos los módulos solicitados. Excepto que se solicite crear uno
-nuevo en el enunciado del Módulo.
-<br>
 -LINK DEL PERFIL PUBLICO: https://trailblazer.me/id/avzquezdelmercadosnchez
+
+<BR>
+  
+<img src="https://user-images.githubusercontent.com/97711819/172456945-f450e02b-900b-4fd0-bff8-e27b80ec546d.png"/>
+
+
