@@ -163,24 +163,40 @@ Explicar que son conceptualmente, qué datos almacenan en forma estándar y cóm
     
     Conceptos:
     
-1.	Lead
+1.	Lead:<BR>
 El lead es un potencial cliente que demostró interés en un producto o servicio ofrecido por la marca a través de la interacción con contenidos y otros materiales.
-2.	Account
+2.	Account:<BR>
 Se utilizan para almacenar información acerca de clientes o personas individuales con las que hace negocios. Existen dos tipos de cuentas. Las cuentas de negocio almacenan información acerca de compañías. Las cuentas personales almacenan información acerca de personas individuales.
-3.	Contact
+3.	Contact:<BR>
 Se utilizan los contactos para almacenar información acerca de personas con las que hace negocios. Los contactos se asocian habitualmente con una cuenta, pero también se pueden asociar con otros registros como oportunidades.
-4.	Opportunity
+4.	Opportunity:<BR>
 Las oportunidades son acuerdos en curso. Los registros de oportunidad realizan un seguimiento de detalles acerca de acuerdos, incluyendo para qué cuentas son, quiénes son las personas implicadas y las cantidades de las ventas potenciales.
-5.	Product
+5.	Product:<BR>
 Productos son los elementos y servicios que distribuye a clientes. Cada producto puede existir en múltiples listas de precios con precios diferentes
-6.	PriceBook
+6.	PriceBook:<BR>
 Un PriceBook es una lista de productos y sus precios asociados. Cada producto y su precio se denomina entrada del libro de precios.Salesforce proporciona dos tipos de libros de precios: estándar y personalizados.
-7.	Quote
+7.	Quote:<BR>
 Las cotizaciones en Salesforce representan los precios propuestos de los productos y servicios de su empresa.
-8.	Asset
+8.	Asset:<BR>
 Los activos representan los productos específicos que sus clientes han comprado.
-9.	Case
+9.	Case:<BR>
 Un caso es una pregunta, un comentario o un problema de un cliente. Los agentes del servicio de atención al cliente pueden revisar casos para ver cómo pueden ofrecer un mejor servicio. Los representantes de ventas utilizan casos para ver cómo afectan al proceso de ventas.
-10.	Article
+10.	Article:<BR>
 Los artículos de conocimientos son documentos de información. Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes.
+    
+##    EJERCICIO 6
+    
+
+ Responder las siguientes preguntas brevemente sobre:
+
+ Soluciones de Salesforce
+
+ A.	¿Qué es Salesforce?
+
+ Es la primera compañía que llevó el CRM a la nube
+
+ B.	¿Qué es Sales Cloud?
+
+ Forma parte del sistema CRM que ofrece Salesforce, utilizando la nube para poder administrar el negocio donde sea que uno de encuentre.
+
 
