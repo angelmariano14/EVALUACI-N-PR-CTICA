@@ -145,3 +145,16 @@ Content-Type: multipart/form-data; boundary=something</code>
 <img src="https://user-images.githubusercontent.com/97711819/172456945-f450e02b-900b-4fd0-bff8-e27b80ec546d.png"/>
 
 
+## EJERCICIO 5
+
+  <BR>
+    
+Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
+    
+  <BR>
+    
+DIAGRAMA:
+    
+  <BR>
+    
+<img src="https://user-images.githubusercontent.com/97711819/172461605-050b4574-4aa7-4d95-83fa-100ec432260f.png"/>
