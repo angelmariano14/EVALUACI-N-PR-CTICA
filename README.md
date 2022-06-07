@@ -150,3 +150,5 @@ Content-Type: multipart/form-data; boundary=something</code>
 
 - Se recomienda usar el mismo Playground para todos los módulos solicitados. Excepto que se solicite crear uno
 nuevo en el enunciado del Módulo.
+<br>
+-LINK DEL PERFIL PUBLICO: https://trailblazer.me/id/avzquezdelmercadosnchez
