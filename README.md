@@ -291,4 +291,68 @@ Omni- canal es una función personalizable y flexible que se puede configurar de
     
 **O.	¿Para qué sirve la funcionalidad Chatter?**
     
-Chatter facilita la conexión con las personas y la información que les es más relevante
+Chatter facilita la conexión con las personas y la información que les es más relevante.
+    
+   ***Conceptos generales***
+    
+    
+**A.	¿Qué significa SaaS?**
+    
+Software como servicio, o Software as a Service.
+    
+**B.	¿Salesforce es Saas?**
+    
+Salesforce es PaaS, que significa plataforma como servicio, y es una derivada de SaaS.
+    
+**C.	¿Qué significa que una solución sea Cloud?**
+    
+De una manera simple, la computación en la nube es una tecnología que permite acceso remoto a softwares, almacenamiento de archivos y procesamiento de datos por medio de Internet, siendo así, una alternativa a la ejecución en una computadora personal o servidor local.
+    
+**D.	¿Qué significa que una solución sea On-Premise?**
+    
+El software on-premise está instalado en los servidores y dispositivos locales de la empresa. Esto permite tener acceso físico a la información y control directo de la configuración, manejo y seguridad de esos datos.
+    
+**E.	¿Qué es un pipeline de ventas?**
+    
+El pipeline de ventas es, precisamente, el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes.
+    
+**F.	¿Qué es un funnel de ventas?**
+    
+Es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios y así llegar a cumplir un objetivo final, que bien puede ser la conversión de clientes, lograr un registro, cerrar una venta, entre otras.
+    
+**G.	¿Qué significa Customer Experience?**
+    
+Es la experiencia del cliente al usar nuestros servicios.
+    
+**H.	¿Qué significa omnicanalidad?**
+    
+Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.).
+    
+**I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?**
+    
+El término B2B nace de la expresión en inglés “business to business” (empresa a empresa). Es decir, son las ventas de una empresa a otra.
+    
+B2C es el acrónimo en inglés de “business to consumer” (empresa a consumidor). Es decir, es un modelo de negocio en el que una empresa le vende de forma directa al consumidor final.
+    
+Un KPI, conocido también como indicador clave o medidor de desempeño o indicador clave de rendimiento, es una medida del nivel del rendimiento de un proceso. El valor del indicador está directamente relacionado con un objetivo fijado previa y normalmente se expresa en valores porcentuales.
+    
+**J.	¿Qué es una API y en qué se diferencia de una Rest API?**
+    
+Por lo general, la API sigue el formato de aplicación a aplicación, mientras que REST sigue una estructura diferente: Cliente-Servidor. El cliente y el servidor están evolucionando de forma independiente, proporcionando más flexibilidad en el trabajo.
+    
+**K.	¿Qué es un Proceso Batch?**
+    
+Es un sistema que induce a la producción de cantidades finitas de material, sometiendo las cantidades de material de entrada a un conjunto ordenado de actividades de procesamiento sobre un periodo finito de tiempo, usando uno o más recursos.
+    
+**L.	¿Qué es Kanban?**
+    
+Kanban hace referencia a las tarjetas visuales. Esta metodología es muy sencilla, se puede actualizar y los equipos de trabajo la pueden asumir sin problema.
+    
+**M.	¿Qué es un ERP?** 
+    
+Es un tipo de software que las organizaciones utilizan para gestionar las actividades empresariales diarias, como la contabilidad, el aprovisionamiento, la gestión de proyectos, la gestión de riesgos, el cumplimiento y las operaciones de la cadena de suministro.
+    
+**N.	¿Salesforce es un ERP?**
+    
+Si, ya que complementa las plataformas de planificación de recursos de negocio (ERP) mediante la conversión de los datos de la gestión de procesos desde el prospecto hasta el pedido de Salesforce CPQ en datos de transacciones.
+
