@@ -203,11 +203,12 @@ Un caso es una pregunta, un comentario o un problema de un cliente. Los agentes 
 Los artículos de conocimientos son documentos de información. Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes.
     
 ##    EJERCICIO 6
-    
+     <br><br>
 
-** Responder las siguientes preguntas brevemente sobre:**
+**Responder las siguientes preguntas brevemente sobre:**
 
-**Soluciones de Salesforce**
+***Soluciones de Salesforce***  
+     <br><br>
     
 **A.	¿Qué es Salesforce?**
 
@@ -228,4 +229,66 @@ Los artículos de conocimientos son documentos de información. Los artículos p
 **E.	¿Qué es Marketing Cloud?**
 
    Marketing Cloud es una plataforma de marketing digital de Salesforce que incluye herramientas para el marketing por correo electrónico, el marketing a través de redes sociales, el marketing para dispositivos móviles, la publicidad online y la automatización del marketing.
-
+    
+ <br><br>
+***Funcionalidades de Salesforce***
+ <br><br>   
+**A.	¿Qué es un RecordType?**
+    
+Los Record Types en Salesforce nos permiten definir diferentes Business Process, Pages Layouts y Picklist Values en un determinado objeto. Así mismo, los Record Types nos ayudan a mostrar distintos tipos de información según el perfil del usuario.
+    
+**B.	¿Qué es un ReportType?**
+    
+Indica el tipo de informe al que pertenece la plantilla seleccionada previamente por el creador de la misma.
+    
+**C.	¿Qué es un Page Layout?**
+    
+Nos permite personalizar el diseño y organización de detalle y editar páginas de registros en Salesforce. Los diseños de página se pueden utilizar para controlar la apariencia de los campos, las listas relacionadas y los enlaces personalizados en la página de edición y detalle de objetos estándar y personalizados.
+    
+**D.	¿Qué es un Compact Layout?**
+    
+Los formatos compactos controlan qué campos aparecen en el encabezado. Para cada objeto, puede asignar hasta 10 campos, incluyendo el campo Nombre, para mostrar en esa área.
+    
+**E.	¿Qué es un Perfil?**
+    
+Los perfiles definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación.
+    
+**F.	¿Qué es un Rol?**
+    
+Es aquella función que determina los niveles de acceso que tienen los usuarios.
+    
+**G.	¿Qué es un Validation Rule?**
+    
+Las reglas de validación verifican que los datos ingresados por usuarios en registros cumplen los estándares que especifica antes de poder guardarlos. Una regla de validación puede contener una fórmula o expresión que evalúa los datos en uno o más campos y ofrece un valor “Verdadero” o “Falso”.
+    
+**H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?**
+    
+En Lookup, no es obligatorio especificar cuál es el registro principal del objeto “hijo”, mientras que en Master Detail, tenemos que especificar el registro principal para el registro secundario.
+    
+**I.	¿Qué es un Sandbox?**
+    
+Un Sandbox es una copia de su organización en un entorno aislado que puede usar para distintos fines, como pruebas y capacitación. Los sandbox están completamente aislados de su organización de producción de Salesforce.
+    
+**J.	¿Qué es un ChangeSet?**
+    
+Un conjunto de cambios entrantes es un conjunto de cambios que se ha enviado desde otra organización de Salesforce a la organización en la que ha iniciado sesión. Un conjunto de cambios se debe implementar para que los cambios surtan efecto.
+    
+**K.	¿Para qué sirve el import Wizard de Salesforce?**
+    
+Se puede utilizar para importar un máximo de 50,000 registros.
+    
+**L.	¿Para qué sirve la funcionalidad Web to Lead?**
+    
+Sirve para definir una campaña o fuente de clientes potenciales colocando valores dentro de los campos ocultos.
+    
+**M.	¿Para qué sirve la funcionalidad Web to Case?**
+    
+Para ver cómo afectan al proceso de ventas., responder a casos satisface a sus clientes y mejora su marca.
+    
+**N.	¿Para qué sirve la funcionalidad Omnichannel?**
+    
+Omni- canal es una función personalizable y flexible que se puede configurar de forma declarativa en Salesforce, es decir, sin necesidad de escribir código. OmniCanal ayuda al enrutamiento automático de diferentes tipos de elementos de trabajo (como casos y clientes potenciales) a los agentes.
+    
+**O.	¿Para qué sirve la funcionalidad Chatter?**
+    
+Chatter facilita la conexión con las personas y la información que les es más relevante
