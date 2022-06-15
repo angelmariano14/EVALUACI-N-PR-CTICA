@@ -203,7 +203,7 @@ Un caso es una pregunta, un comentario o un problema de un cliente. Los agentes 
 Los artículos de conocimientos son documentos de información. Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes.
     
 ##    EJERCICIO 6
-     <br><br>
+    
 
 **Responder las siguientes preguntas brevemente sobre:**
 
