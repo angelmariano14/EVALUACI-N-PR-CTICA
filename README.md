@@ -356,3 +356,36 @@ Es un tipo de software que las organizaciones utilizan para gestionar las activi
     
 Si, ya que complementa las plataformas de planificación de recursos de negocio (ERP) mediante la conversión de los datos de la gestión de procesos desde el prospecto hasta el pedido de Salesforce CPQ en datos de transacciones.
 
+### EJERCICIO 7
+    
+PASO 1
+    
+  ![PASO 1](https://user-images.githubusercontent.com/97711819/173709997-0d4c1669-dd57-44b2-94ae-95f4ccb20288.png)
+  
+PASO 2
+    
+   ![PASO 2](https://user-images.githubusercontent.com/97711819/173710000-e213b41e-8ef4-471d-afa0-ba9d56cfb029.png)
+
+PASO 3
+    
+   ![PASO 3](https://user-images.githubusercontent.com/97711819/173710003-bb5217b6-a06f-47b3-b1b2-f1489210e6e5.png)
+ 
+PASO 4
+    
+   ![PASO 4](https://user-images.githubusercontent.com/97711819/173710006-c68022af-d842-4521-95e2-65b05aa862e6.png)
+   
+PASO 5
+    
+   ![paso 5](https://user-images.githubusercontent.com/97711819/173710009-9a3c575e-b89f-427b-8db7-c4ff7f433c80.png)
+
+PASO 6
+    
+   ![PASO 6](https://user-images.githubusercontent.com/97711819/173710016-e77fd0c7-fdcb-4784-a039-0508857ff4bc.png)
+
+PASO 7 
+    
+   ![paso 7](https://user-images.githubusercontent.com/97711819/173710019-b8dae985-e386-4b79-9d41-7e92c13b683c.png)
+
+PASO 8
+    
+   ![PASO 8](https://user-images.githubusercontent.com/97711819/173710025-39c87b38-d4ea-4ed7-9fdb-cc05fc2e9af7.png)
