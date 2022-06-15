@@ -137,7 +137,7 @@ Content-Type: multipart/form-data; boundary=something</code>
 
 ## Ejercicio 4
 
-**MÓDULOS DE TRAILHEAD
+MÓDULOS DE TRAILHEAD
 
 -LINK DEL PERFIL PUBLICO: https://trailblazer.me/id/avzquezdelmercadosnchez
 
@@ -208,7 +208,6 @@ Los artículos de conocimientos son documentos de información. Los artículos p
 **Responder las siguientes preguntas brevemente sobre:**
 
 ***Soluciones de Salesforce***  
-     <br><br>
     
 **A.	¿Qué es Salesforce?**
 
@@ -358,6 +357,10 @@ Si, ya que complementa las plataformas de planificación de recursos de negocio 
 
 ### EJERCICIO 7
     
+INSTALACION DE DATA LOADER
+    
+  ![data loader](https://user-images.githubusercontent.com/97711819/173710746-8382ea83-4bad-4ce3-b645-6a8bc9ac8651.png)
+
 PASO 1
     
   ![PASO 1](https://user-images.githubusercontent.com/97711819/173709997-0d4c1669-dd57-44b2-94ae-95f4ccb20288.png)
